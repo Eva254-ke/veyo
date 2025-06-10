@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "129384834669",
+    "project_id": "veyo-1b45d",
+    "storage_bucket": "veyo-1b45d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129384834669:android:22733b0f64f46b4bedc164",
+        "android_client_info": {
+          "package_name": "com.example.new_veyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129384834669-n1uvcokhh141u53igsn03pkgr1uqegdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_XZuOeO3geHVweedXOVicgESDd3EgNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129384834669-n1uvcokhh141u53igsn03pkgr1uqegdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129384834669-afvs9bg5nuppur4jqbor3sc7rou44ge5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.veyo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129384834669:android:750926d30767681fedc164",
+        "android_client_info": {
+          "package_name": "com.example.veyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129384834669-n1uvcokhh141u53igsn03pkgr1uqegdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_XZuOeO3geHVweedXOVicgESDd3EgNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129384834669-n1uvcokhh141u53igsn03pkgr1uqegdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129384834669-afvs9bg5nuppur4jqbor3sc7rou44ge5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.veyo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
